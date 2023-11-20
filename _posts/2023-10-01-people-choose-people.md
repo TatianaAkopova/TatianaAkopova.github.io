@@ -1,5 +1,10 @@
 ---
+layout: single
+title: "People choose people"
+date: 2023-10-01
+tags: [people, choices]
 ---
+
 # People choose people
 
 People choose people. They choose people, and only after that - everything else.
