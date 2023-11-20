@@ -4,9 +4,6 @@ title: "People choose people"
 date: 2023-10-01
 tags: [people, choices]
 ---
-
-# People choose people
-
 People choose people. They choose people, and only after that - everything else.
 
 I don’t know whether I would have continued practicing yoga if it hadn’t been for my yoga teachers who inspired me. I realised that when my yoga teacher was absent one day and had been replaced by another yoga instructor. Everything seemed so familiar - poses and asanas, the practice itself - yet something was different.
