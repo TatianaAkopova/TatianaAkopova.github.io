@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Confession of a Woman with Makeup"
-date: 2024-01-08
+date: 2023-12-14
 tags: [Makeup, self-love, self-acceptance]
 ---
 ![Confession of a Woman with Makeup](/assets/images/confession-of-a-woman-with makeup-header.jpg)
