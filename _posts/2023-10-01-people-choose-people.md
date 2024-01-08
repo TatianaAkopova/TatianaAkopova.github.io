@@ -4,7 +4,7 @@ title: "People choose people"
 date: 2023-10-01
 tags: [people, choices]
 ---
-<img src="/assets/images/people-choose-people.jpg" alt="People choose people" style="width: 100%;"/>
+![People choose people](/assets/images/people-choose-people.jpg)
 
 People choose people. They choose people, and only after that - everything else.
 
