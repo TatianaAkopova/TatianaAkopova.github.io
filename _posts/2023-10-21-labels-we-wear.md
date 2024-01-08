@@ -7,8 +7,11 @@ tags: [unproductive, self-love, self-acceptance, productivity, guilty-pleasure]
 ![Labels We Wear](/assets/images/labels-we-wear.jpg)
 
 &mdash;Here's Antonina Petrovna's granddaughter, she's quite something. She moved to the capital, Moscow and now she's tutoring there - my grandmother shares news. - She hung up advertisements in the entryways, and that's it - now she's teaching English to students at her home. What a businesswoman!- my grandmother can't hide her admiration.
+
 &mdash;Oh, she's quite the entrepreneur! -  I reply with a touch of sarcasm.
+
 &mdash;Yes, you're not like that, you can't do that. You're too modest for that - my grandma concludes. 
+
 &mdash;Well, grandma, isn't it something that I flew to Vietnam one way and found a job there? 
 
 My grandmother laughs at the whole thing, not knowing what to answer. 
