@@ -24,7 +24,7 @@ It turned out that this Siberian guy had found a dead beetle on the beach of the
 The Siberian guy brought the dead insect to his room at the hotel and now the beetle was gone!
 
 &mdash;Hahaha, probably employees from the house keeping department  had just thrown the beetle away! - Mr. Nam, the duty manager laughed and was about to leave. 
-- I translated accordingly what Mr. Nam, the duty manager said as “I’m so sorry for the whole incident, please accept my apologies on behalf of the hotel management. Is there anything the hotel could do to make you feel better and forgive us for such an incident?”
+I translated accordingly what Mr. Nam, the duty manager said as “I’m so sorry for the whole incident, please accept my apologies on behalf of the hotel management. Is there anything the hotel could do to make you feel better and forgive us for such an incident?”
 
 ![Vietnamese Bug](/assets/images/vietnamese-bug-1.jpg)
 
