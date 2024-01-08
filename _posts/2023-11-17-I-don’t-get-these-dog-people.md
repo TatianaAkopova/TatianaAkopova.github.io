@@ -4,7 +4,7 @@ title: "I Don't Get These Dog People"
 date: 2023-12-27
 tags: [dogs, fun, Estonia, dog-lovers]
 ---
-![I Don't Get These Dog People](/assets/images/I-don’t-get-these-dog-people.jpg)
+![I Don't Get These Dog People](/assets/images/I-dont-get-these-dog-people.jpg)
 
 I was once picking out some craft supplies in a store. Nearby stood a lady with a little dog. The lady dropped a glove. The dog pounced on it like Mike Tyson on his opponents. The lady seemed oblivious. The little dog, with all its terrier might, was jumping around and tugging at the glove. I thought any moment both the glove and the dog would scatter among the crafting goods.
 
