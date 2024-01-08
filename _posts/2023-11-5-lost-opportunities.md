@@ -4,7 +4,7 @@ title: "Lost-opportunities"
 date: 2023-11-5
 tags: [opportunities, self-acceptance, self-love]
 ---
-![Lost-opportunities](/assets/images/lost-opportunities.jpg)
+![Lost opportunities](/assets/images/lost-opportunities.jpg)
 
 I missed a competition in gymnastics because I got ill. I was 5 or 6 years old and was looking forward to that competition. Primarily because of a beautiful blue and violet leotard with glitters, a uniform gymnastics suit which was given to every participant. 🤸🏾‍♀️
 
@@ -17,11 +17,14 @@ But then one day after a check-up at a cardiologist’s a heart problem was diag
 Later on I showed some interest in skating, and my mother and I went to a test training on a skating rink. The coach there instructed us later about the training and that we needed to buy new figure skates. ⛸️
 
 &mdash;Are you sure you really want this? - my mom asked suspiciously about that skating training, - You know these new figure skates cost a lot of money, and you need to train regularly.
+
 &mdash;I guess I do want, - I murmured hesitantly.
+
 &mdash;And don’t forget about possible traumas - you could fall often, break an arm or a leg, fall on your back and hurt it.
 I kept quiet and started visualising. 
 
 &mdash;Besides, who will take you to these trainings? Grandma?She’s already going with every day to school and meeting you after classes. This will be too much for her, and we can’t do it, as we work.
+
 &mdash;Well, maybe I don’t really like skating that much, - I replied as I sensed that my parents were not really supportive about that. 🥲
 
 Overall, I didn’t go to any extra curricular activities. No sport, no art or music school. While my fellow pupils were engaged in different activities, I stayed at home, doing homework most of the time.
