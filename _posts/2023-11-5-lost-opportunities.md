@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Lost-opportunities"
+title: "Lost opportunities"
 date: 2023-11-5
 tags: [opportunities, self-acceptance, self-love]
 ---
