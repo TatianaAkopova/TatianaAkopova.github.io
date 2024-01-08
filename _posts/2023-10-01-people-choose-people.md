@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "People choose people"
+title: "People Choose People"
 date: 2023-10-01
 tags: [people, choices]
 ---
