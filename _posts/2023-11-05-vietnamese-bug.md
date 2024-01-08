@@ -72,4 +72,5 @@ I was dying to know the details.
 Mr. Nguyễn continued.
 
 &mdash;My employees found two longhorn beetles: one without a head, the other - without 2 legs. And I personally glued them together carefully with a super glue! 5-star service - He exclaimed! 
+
 &mdash;LEGO and bravo! - I confirmed! 
