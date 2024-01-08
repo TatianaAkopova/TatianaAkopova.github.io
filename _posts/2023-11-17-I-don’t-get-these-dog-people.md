@@ -13,5 +13,7 @@ The dog's owner slowly bent down and started to calmly, and with great patience,
 What on earth was she telling it? Was she narrating "Sipsik" to it? Or reciting the "Dog’s Code of Honor"?
 I’d picked out three buttons already, yet the lady kept chatting with the dog.
 I was moving towards the beads, and she was still squatting, conversing with the dog.
+
 "In Russia, that very dog would have gotten a slap, and with that glove, oh, the dog would've really got it," my mom couldn’t help commenting when I told her about the Lady with the Dog.
+
 Still, I don’t get these dog people. I mean, I literally don’t understand them.
