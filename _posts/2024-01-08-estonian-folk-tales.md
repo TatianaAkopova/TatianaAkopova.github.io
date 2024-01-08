@@ -4,7 +4,7 @@ title: "Estonian Folk Tales"
 date: 2024-01-08
 tags: [Estonian-folk-tales, Estonian-language]
 ---
-![Estonian folk tales](/assets/images/estonian-folk-tales-1.jpg)
+![Estonian folk tales](/assets/images/estonian-folk-tales-1-header.jpg)
 
 Ah, the rich tapestry of Estonian folklore: where cunning peasants, Finnish sages, and conniving crayfish share the stage in teaching us about life's complexities. I’ve been on a humor-infused journey with these tales and I am now ready to share what they could tell us about contemporary Estonia. 
 
