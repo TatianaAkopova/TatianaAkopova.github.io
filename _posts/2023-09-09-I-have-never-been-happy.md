@@ -4,7 +4,7 @@ title: "I Have Never Been Happy"
 date: 2023-09-09
 tags: [happiness,self-love,people,choices,aging]
 ---
-![I Have Never Been Happy](/assets/images/I-have-never-been-happy.jpg)
+![I Have Never Been Happy](/assets/images/i-have-never-been-happy.jpg)
 
 &mdash;I have never been happy. I have never gone to work happy. And I am already 76. Turns out all my life was useless, all’s in vain, - I heard an elderly man near the central market telling his partner.
 
