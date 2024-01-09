@@ -6,8 +6,6 @@ tags: [labels, self-love, self-acceptance, carpe diem]
 ---
 ![Living for the Moment](/assets/images/living-for-the-moment.jpg)
 
-# Waiting for Life or Living for the Moment?
-
 How often do we find ourselves in a perpetual state of anticipation, longing for the next chapter to begin while neglecting the one we’re currently in? 🤔
 
 We’re all guilty of it: counting down the days until the weekend, pining for a new job, a promotion, or the arrival of summer. In our quest for what’s to come, we forget to cherish the beauty of the present. 🌞
