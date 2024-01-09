@@ -2,7 +2,7 @@
 layout: single
 title: "Labels We Wear"
 date: 2023-10-21
-tags: [unproductive, self-love, self-acceptance, productivity, guilty-pleasure]
+tags: [self-love, self-acceptance, labels, Vietnam]
 ---
 ![Labels We Wear](/assets/images/labels-we-wear.jpg)
 
