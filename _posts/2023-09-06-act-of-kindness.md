@@ -3,6 +3,9 @@ layout: single
 title: "Act of Kindness"
 date: 2023-09-06
 tags: [kindness, trip]
+excerpt: "On a bus St.Petersburg-Tallinn an elderly man spoke emotionally in Italian on the phone. After the talk the “Italian” immediately shared the news with everyone that his daughter had just been robbed in Milan: she put her luggage in a luggage compartment on a bus and someone stole it!"
+header:
+  teaser: "/assets/images/act-of-kindness.jpg"
 ---
 ![Act of Kindness](/assets/images/act-of-kindness.jpg)
 
