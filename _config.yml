@@ -6,3 +6,10 @@ plugins:
 tag_archive:
   type: liquid
   path: /tags/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      header:
+        teaser: "/assets/images/living-for-the-moment.jpg"
