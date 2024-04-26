@@ -13,7 +13,7 @@ I started wearing makeup when I was around 11 or 12 years old. I honestly can't 
 
 By "going out," I mean any exit from the apartment — even to a clinic when your eyes are tearing up and you feel awful. But what will people think? How will they react?Even if you're going to a remote cabin where, aside from the forest and distant neighbours no one will see you, you still have to leave the apartment, right? Walk through the entrance hall, get to the car, and upon returning, get out of the car, cross the yard, and walk back through the entrance hall to your apartment. Taking out the trash, of course, also requires makeup, because otherwise, you won't pass the 'face control' at the dumpster. 
 
-![Confession of a Woman with Makeup](/assets/images/confession-of-a-woman-with makeup-1.jpg)
+![Confession of a Woman with Makeup](/assets/images/confession-of-a-woman-with-makeup-1.jpg)
 
 &mdash;Oh, you look so pretty here, it's a really good picture, -  my friend said as she was browsing through photos from a recent gathering.
 &mdash;What do you mean, 'pretty'? I'm not even wearing makeup here!-  I replied furiously thinking my friend was mocking at me. 
