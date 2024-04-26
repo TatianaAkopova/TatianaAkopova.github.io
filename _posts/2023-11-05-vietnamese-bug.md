@@ -3,6 +3,9 @@ layout: single
 title: "Vietnamese Bug"
 date: 2024-01-08
 tags: [Vietnam, hotel, vietnamese-bugs, guest relation]
+excerpt: "This story took place several years ago in Vietnam. In a coastal resort city in the south central part of Vietnam. There was a five star hotel with a huge amusement park located on a separate island."
+header:
+  teaser: "/assets/images/vietnamese-bug-header.jpg"
 ---
 ![Vietnamese Bug](/assets/images/vietnamese-bug-header.jpg)
 
