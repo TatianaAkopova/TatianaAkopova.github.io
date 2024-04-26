@@ -3,6 +3,9 @@ layout: single
 title: "Standup Comedy Goals"
 date: 2024-01-02
 tags: [standup, comedy, self-love, goals]
+excerpt: "Oh, standup, I see. I remember one comedian, Maria, do you know her? - a talkative taxi driver asked me, assuming I know all Marias of stand-up."
+header:
+  teaser: "/assets/images/standup-comedy-goals.jpg"
 ---
 ![Standup Comedy Goals](/assets/images/standup-comedy-goals.jpg)
 
