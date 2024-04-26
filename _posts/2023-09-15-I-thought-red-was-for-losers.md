@@ -3,6 +3,9 @@ layout: single
 title: "I Thought Red Was for Losers"
 date: 2023-09-15
 tags: [happiness,self-love,people,choices,self-acceptance,thoughts]
+excerpt: "I have always thought red was for losers. That’s what I’ve been told. My clothes have never had a hint of red colour and I have never worn anything red until the recent years."
+header:
+  teaser: "/assets/images/i-thought-red-was-for-losers.jpg"
 ---
 ![I Thought Red Was for Losers](/assets/images/i-thought-red-was-for-losers.jpg)
 
