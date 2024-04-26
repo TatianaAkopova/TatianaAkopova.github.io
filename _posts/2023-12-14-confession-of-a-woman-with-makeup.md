@@ -3,8 +3,11 @@ layout: single
 title: "Confession of a Woman with Makeup"
 date: 2023-12-14
 tags: [Makeup, self-love, self-acceptance]
+excerpt: "I started wearing makeup when I was around 11 or 12 years old. I honestly can't remember exactly when the thick black liquid called mascara first touched my eyelashes and then refused to leave them for the next 20 years."
+header:
+  teaser: "/assets/images/confession-of-a-woman-with-makeup-header.jpg"
 ---
-![Confession of a Woman with Makeup](/assets/images/confession-of-a-woman-with makeup-header.jpg)
+![Confession of a Woman with Makeup](/assets/images/confession-of-a-woman-with-makeup-header.jpg)
 
 I started wearing makeup when I was around 11 or 12 years old. I honestly can't remember exactly when the thick black liquid called mascara first touched my eyelashes and then refused to leave them for the next 20 years. I thought if you didn't put on makeup when you went "out," it was a disgrace. That’s what my mom told me. I don’t remember a day when my mom didn’t have a makeup, she would get up early in the morning to put on makeup and curl her hair. Every single day. Especially when you go out. 
 
