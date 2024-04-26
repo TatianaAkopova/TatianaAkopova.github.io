@@ -1,5 +1,4 @@
 ---
-layout: home
+layout: collection
+entries_layout: grid
 ---
-
-Welcome to my blog!
