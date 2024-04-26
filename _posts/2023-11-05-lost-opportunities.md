@@ -1,8 +1,11 @@
 ---
 layout: single
 title: "Lost opportunities"
-date: 2023-11-5
+date: 2023-11-05
 tags: [opportunities, self-acceptance, self-love]
+excerpt: "I missed a competition in gymnastics because I got ill. I was 5 or 6 years old and was looking forward to that competition."
+header:
+  teaser: "/assets/images/lost-opportunities.jpg"
 ---
 ![Lost opportunities](/assets/images/lost-opportunities.jpg)
 
