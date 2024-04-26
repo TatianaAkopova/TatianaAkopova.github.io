@@ -3,6 +3,9 @@ layout: single
 title: "Guilt of Unproductive Day"
 date: 2023-12-27
 tags: [unproductive, self-love, self-acceptance, productivity, guilty-pleasure]
+excerpt: "Do you have those days when the to-do list remains untouched, the goals seem distant, and productivity takes a backseat? I do!"
+header:
+  teaser: "/assets/images/guilt-of-unproductive-days.jpg"
 ---
 ![Beauty of Aging](/assets/images/guilt-of-unproductive-days.jpg)
 
