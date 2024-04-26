@@ -3,6 +3,9 @@ layout: single
 title: "People Choose People"
 date: 2023-10-01
 tags: [people, choices]
+excerpt: "People choose people. They choose people, and only after that - everything else."
+header:
+  teaser: "/assets/images/people-choose-people.jpg"
 ---
 ![People choose people](/assets/images/people-choose-people.jpg)
 
