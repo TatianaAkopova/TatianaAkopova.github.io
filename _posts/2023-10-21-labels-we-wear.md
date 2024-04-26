@@ -3,6 +3,9 @@ layout: single
 title: "Labels We Wear"
 date: 2023-10-21
 tags: [self-love, self-acceptance, labels, Vietnam]
+excerpt: "Here's Antonina Petrovna's granddaughter, she's quite something. She moved to the capital, Moscow and now she's tutoring there - my grandmother shares news."
+header:
+  teaser: "/assets/images/labels-we-wear.jpg"
 ---
 ![Labels We Wear](/assets/images/labels-we-wear.jpg)
 

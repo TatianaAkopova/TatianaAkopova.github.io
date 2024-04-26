@@ -3,6 +3,9 @@ layout: single
 title: "Living for the Moment"
 date: 2023-09-09
 tags: [labels, self-love, self-acceptance, carpe diem]
+excerpt: "How often do we find ourselves in a perpetual state of anticipation, longing for the next chapter to begin while neglecting the one we’re currently in?"
+header:
+  teaser: "/assets/images/living-for-the-moment.jpg"
 ---
 ![Living for the Moment](/assets/images/living-for-the-moment.jpg)
 

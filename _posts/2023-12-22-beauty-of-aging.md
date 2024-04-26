@@ -3,6 +3,9 @@ layout: single
 title: "Beauty of Aging"
 date: 2023-12-22
 tags: [aging, self-love, self-acceptance]
+excerpt: "As the years go by, we’re often taught to fear aging – the wrinkles, the graying hair, and the passing of time. But there is an immense beauty in the journey of growing older."
+header:
+  teaser: "/assets/images/beauty-of-aging-1.jpg"
 ---
 ![Beauty of Aging](/assets/images/beauty-of-aging-1.jpg)
 
